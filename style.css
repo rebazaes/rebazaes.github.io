@@ -1,0 +1,27 @@
+html ,body{
+	height: 100%;
+  width: 100%;
+}
+.background {
+	background-position: center;
+  background: url("gradient-1538049714778-1668.jpg");
+  background-size: cover;
+  height: 100%;
+    
+}
+
+
+	
+
+.title{
+	font-family: 'Comfortaa', cursive;
+	font-size: 3rem;
+	color: #FFE15C;
+	text-align: center;
+  margin-bottom: 30px;
+	
+
+}
+
+
+	
